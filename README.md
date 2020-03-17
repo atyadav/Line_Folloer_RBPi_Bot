@@ -7,3 +7,5 @@ Tried creating line follower bot using 3 techniques :
 This program talk about 3rd option.
 
 Image file shows wire connection where as .py file gives code to be used.
+
+Watch Video : https://youtu.be/syfYGTZFgwk

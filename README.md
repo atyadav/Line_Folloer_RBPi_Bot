@@ -4,7 +4,7 @@ Tried creating line follower bot using 3 techniques :
 2. IR Sensors + L298N Motor Driver + Arduino
 3. IR Sensors + L298N Motor Driver + Raspberry Pi
 
-This program talk about 3rd option.
+This program talks about 3rd option.
 
 Image file shows wire connection where as .py file gives code to be used.
 
